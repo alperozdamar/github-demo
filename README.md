@@ -2,6 +2,8 @@
 A Simple demo repository to show the basic Git workflow
 
 ## Introduction
+Simple Introduction
+
 
 ## Purpose
 
