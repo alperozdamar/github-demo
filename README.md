@@ -11,4 +11,4 @@ as stated above,...
 This is a simple web project
 
 ## How to contribute
-How?
+How to change?
