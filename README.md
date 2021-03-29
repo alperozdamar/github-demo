@@ -2,7 +2,7 @@
 A Simple demo repository to show the basic Git workflow
 
 ## Introduction
-Simple Introduction
+Alper's Introduction
 
 ## Purpose
 as stated above,...
@@ -11,4 +11,4 @@ as stated above,...
 This is a simple web project
 
 ## How to contribute
-How to change?
+Git Training 2014
